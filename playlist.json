@@ -1,508 +1,77 @@
 {
   "songs": [
-    {
-      "id": 72573622817233,
-      "title": "Baby - Justin Bieber",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 138115820440908,
-      "title": "Apate",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 132131468560836,
-      "title": "Beauty and the Beast",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 109336541673542,
-      "title": "Los Dol",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 78467630893741,
-      "title": "Hareudang",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 114290214786379,
-      "title": "Sorry - Justin Bieber",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 71816097966459,
-      "title": "Singkong Keju",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 131193430622631,
-      "title": "Garam Madu",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 79443053527131,
-      "title": "Koplo Skuy",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 71603956381481,
-      "title": "Crazy Frog",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 99851006401353,
-      "title": "Pachangaroni",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 115583778693833,
-      "title": "Jump - BLACKPINK",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 134036986226659,
-      "title": "Cindai - Siti Nurhaliza",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 105289104384550,
-      "title": "Zapin",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 77460510440148,
-      "title": "Mabok Janda",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 83937182009259,
-      "title": "Wadimor",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 138795284793079,
-      "title": "Ddu-Du Ddu-Du - BLACKPINK",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 110840452518468,
-      "title": "Kasih Aba Aba",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 82452927025629,
-      "title": "Gabriella - KATSEYE",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 137576630476533,
-      "title": "Putri Iklan - ST12",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 128601986702793,
-      "title": "Dumes - Denny Caknan",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 120270182188703,
-      "title": "Bella Ciao",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 88987020679929,
-      "title": "Asal Kau Bahagia - Armada",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 98524529524461,
-      "title": "Empat Mata - D'Bagindas",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 73639367988714,
-      "title": "Cinta Monyet",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 138104000644256,
-      "title": "On My Way - Alan Walker",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 105443042353071,
-      "title": "Lily - Alan Walker",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 120291711812063,
-      "title": "Termola - Via Vallen",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 86048262233970,
-      "title": "Despacito - Luis Fonsi",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 127886830920569,
-      "title": "Feel - Reza Artamevia",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 105319261668554,
-      "title": "Raffa Affar",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 77491573911762,
-      "title": "Mangu",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 79470614571752,
-      "title": "Mendua - Astrid",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 93707537378359,
-      "title": "Jangan Calling Calling",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 98070894722550,
-      "title": "Kehilanganmu Berat",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 82831089375715,
-      "title": "Kamu Keterlaluan - Harry Potter",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 100398051862316,
-      "title": "Jangan Tunggu Lama Lama",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 131261097219674,
-      "title": "Tor Monitor",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 81309100657132,
-      "title": "Stecu Stecu",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 122255763057346,
-      "title": "Perawan atau Janda",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 84041625597862,
-      "title": "Satu Satu - Idgitaf",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 125409096696146,
-      "title": "Sudah Cukup Sudah",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 125215598070706,
-      "title": "Lama Lama - Bernadya",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 120387131362680,
-      "title": "Satu Bulan - Bernadya",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 102252071828722,
-      "title": "Bila Kau Tak di Sampingku - Sheila on 7",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 93489708998215,
-      "title": "Menepi - Guyon Waton",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 107510313499528,
-      "title": "So Asyu - Naykilla",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 119040516310413,
-      "title": "Buku Harian",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 90334989979497,
-      "title": "Tabola Bale",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 83341978608637,
-      "title": "Lagu Indo Enak 3",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 75972363871760,
-      "title": "Heavy Rotation - JKT48",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 94657702943875,
-      "title": "Mari Bercinta - Aura Kasih",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 98740030505627,
-      "title": "Tanpa Kasih - Tiara Andini",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 71700943906979,
-      "title": "Tak Segampang Itu - Anggi Marito",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 97661254690447,
-      "title": "Pencinta Wanita - Irwansyah",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 132971683007893,
-      "title": "Sinarengan - Denny Caknan",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 110047845325103,
-      "title": "Jadikan Aku yang Kedua - Astrid",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 112576782411633,
-      "title": "Starboy - The Weeknd",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 119515052123390,
-      "title": "Easy On Me - Adele",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 80919029961413,
-      "title": "Jangan Ganggu Pacarku",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 79732749835398,
-      "title": "Don't Look Back in Anger - Oasis",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 125964149625629,
-      "title": "Blue - Yung Kai",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 91966719502573,
-      "title": "Souljah",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 116829552676850,
-      "title": "Sialan - Juicy Luicy",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 101700379113846,
-      "title": "Berharap Tak Berpisah - Reza Artamevia",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 85507736059877,
-      "title": "Rude - MAGIC!",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 129983726096201,
-      "title": "It Will Rain - Bruno Mars",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 121439595771752,
-      "title": "Lonely - Akon",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 113478717600013,
-      "title": "Aku Dah Lupa - Zia & Milky",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 73028362195208,
-      "title": "Alamak - Rizky Febian",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 74574111111762,
-      "title": "Cinta Satu Malam - Reza",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    },
-    {
-      "id": 87558326667570,
-      "title": "Terlalu Lama - Viera",
-      "category": "ALL",
-      "length": 240,
-      "playbackSpeed": 0.40
-    }
+    { "id": 72573622817233, "title": "Baby - Justin Bieber", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 138115820440908, "title": "Apate", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 132131468560836, "title": "Beauty and the Beast", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 114290214786379, "title": "Sorry - Justin Bieber", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 71603956381481, "title": "Crazy Frog", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 115583778693833, "title": "Jump - BLACKPINK", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 138795284793079, "title": "Ddu-Du Ddu-Du - BLACKPINK", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 82452927025629, "title": "Gabriella - KATSEYE", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 138104000644256, "title": "On My Way - Alan Walker", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 105443042353071, "title": "Lily - Alan Walker", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 86048262233970, "title": "Despacito - Luis Fonsi", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 112576782411633, "title": "Starboy - The Weeknd", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 119515052123390, "title": "Easy On Me - Adele", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 79732749835398, "title": "Don't Look Back in Anger - Oasis", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 125964149625629, "title": "Blue - Yung Kai", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 85507736059877, "title": "Rude - MAGIC!", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 129983726096201, "title": "It Will Rain - Bruno Mars", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 121439595771752, "title": "Lonely - Akon", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 120270182188703, "title": "Bella Ciao", "category": "ENGLISH", "length": 240, "playbackSpeed": 0.40 },
+
+    { "id": 109336541673542, "title": "Los Dol", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 78467630893741, "title": "Hareudang", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 71816097966459, "title": "Singkong Keju", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 131193430622631, "title": "Garam Madu", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 79443053527131, "title": "Koplo Skuy", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 77460510440148, "title": "Mabok Janda", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 83937182009259, "title": "Wadimor", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 99851006401353, "title": "Pachangaroni", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 134036986226659, "title": "Cindai - Siti Nurhaliza", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 105289104384550, "title": "Zapin", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 110840452518468, "title": "Kasih Aba Aba", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 137576630476533, "title": "Putri Iklan - ST12", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 128601986702793, "title": "Dumes - Denny Caknan", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 88987020679929, "title": "Asal Kau Bahagia - Armada", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 98524529524461, "title": "Empat Mata - D'Bagindas", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 73639367988714, "title": "Cinta Monyet", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 120291711812063, "title": "Termola - Via Vallen", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 127886830920569, "title": "Feel - Reza Artamevia", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 105319261668554, "title": "Raffa Affar", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 77491573911762, "title": "Mangu", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 79470614571752, "title": "Mendua - Astrid", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 93707537378359, "title": "Jangan Calling Calling", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 98070894722550, "title": "Kehilanganmu Berat", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 82831089375715, "title": "Kamu Keterlaluan", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 100398051862316, "title": "Jangan Tunggu Lama Lama", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 131261097219674, "title": "Tor Monitor", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 81309100657132, "title": "Stecu Stecu", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 122255763057346, "title": "Perawan atau Janda", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 84041625597862, "title": "Satu Satu - Idgitaf", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 125409096696146, "title": "Sudah Cukup Sudah", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 125215598070706, "title": "Lama Lama - Bernadya", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 120387131362680, "title": "Satu Bulan - Bernadya", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 102252071828722, "title": "Bila Kau Tak di Sampingku - Sheila on 7", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 93489708998215, "title": "Menepi - Guyon Waton", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 107510313499528, "title": "So Asyu - Naykilla", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 119040516310413, "title": "Buku Harian", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 90334989979497, "title": "Tabola Bale", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 83341978608637, "title": "Lagu Indo Enak 3", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 75972363871760, "title": "Heavy Rotation - JKT48", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 94657702943875, "title": "Mari Bercinta - Aura Kasih", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 98740030505627, "title": "Tanpa Kasih - Tiara Andini", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 71700943906979, "title": "Tak Segampang Itu - Anggi Marito", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 97661254690447, "title": "Pencinta Wanita - Irwansyah", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 132971683007893, "title": "Sinarengan - Denny Caknan", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 110047845325103, "title": "Jadikan Aku yang Kedua - Astrid", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 80919029961413, "title": "Jangan Ganggu Pacarku", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 91966719502573, "title": "Souljah", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 116829552676850, "title": "Sialan - Juicy Luicy", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 101700379113846, "title": "Berharap Tak Berpisah - Reza Artamevia", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 113478717600013, "title": "Aku Dah Lupa - Zia & Milky", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 73028362195208, "title": "Alamak - Rizky Febian", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 74574111111762, "title": "Cinta Satu Malam - Reza", "category": "INDO", "length": 240, "playbackSpeed": 0.40 },
+    { "id": 87558326667570, "title": "Terlalu Lama - Viera", "category": "INDO", "length": 240, "playbackSpeed": 0.40 }
   ]
 }
