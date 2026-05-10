@@ -1,6 +1,34 @@
 {
   "songs": [
     {
+      "id": 79749403340973 ,
+      "title": "ELEKTRO 4 - DJ Blend",
+      "category": "ELEKTRO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 116486519617392 ,
+      "title": "ELEKTRO 3 - DJ Blend",
+      "category": "ELEKTRO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+       "id": 130276973713843 ,
+      "title": "ELEKTRO 2 - DJ Blend",
+      "category": "ELEKTRO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 92366017692161 ,
+      "title": "ELEKTRO 1 - DJ Blend",
+      "category": "ELEKTRO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
       "id": 120722864866049 ,
       "title": "Mix Amma Part 11 - DJ JoFelix",
       "category": "AMMAPIANO",
