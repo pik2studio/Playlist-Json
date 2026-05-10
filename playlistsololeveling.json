@@ -1,9 +1,58 @@
 {
   "songs": [
     {
+      "id": 131261097219674 ,
+      "title": "Tor Monitor Ketua",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 77460510440148 ,
+      "title": "Mabok Janda",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 122255763057346 ,
+      "title": "Perawan Atau Janda",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 111614660257929 ,
+      "title": "Gara-Gara Sebotol Minuman",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 129795188329433 ,
+      "title": "All Of Me - John Legend",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 81309100657132 ,
+      "title": "STECU STECU",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+       "id": 122101867561922 ,
+      "title": "On My Way - Alan Walker",
+      "category": "KOPLO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
       "id": 100398051862316 ,
       "title": "Jangan Tunggu Lama Lama",
-      "category": "Koplo",
+      "category": "KOPLO",
       "length": 240,
       "playbackSpeed": 0.40
     }
