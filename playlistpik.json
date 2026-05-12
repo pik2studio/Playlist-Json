@@ -1,16 +1,72 @@
 {
   "songs": [
     {
-      "id": 140222444590087 ,
-      "title": "黄义达 - 那女孩对我说 Na Nu Hai Dui Wo Shuo",
+      "id": 126969530093308,
+      "title": "Xiao Xing Yun 小幸运",
+      "category": "MANYAO LOVERS",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 121399032501346,
+      "title": "Jay Chou - Qi Li Xiang",
+      "category": "JAY CHO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 130444002657062,
+      "title": "黃昏 Huang Hun",
+      "category": "MANYAO LOVERS",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 117686801707364,
+      "title": "Guang Hui Sui Yue 光輝歲月",
+      "category": "MANYAO LOVERS",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 117686801707364 ,
+      "title": "五十年以后 ( Wu Shi Nian Yi Hou) - tecno",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 102777153544566 ,
+      "title": "只是太爱你 Zhi Shi Tai Ai Ni - tecno",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 116340540959357 ,
+      "title": "Baby I'm Sorry (Bao Bei Dui Bu Qi)",
+      "category": "MANYAO LOVERS",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 116340540959357 ,
+      "title": "Baby I'm Sorry (Bao Bei Dui Bu Qi)",
       "category": "",
       "length": 240,
       "playbackSpeed": 0.40
     },
     {
       "id": 140222444590087 ,
+      "title": "黄义达 - 那女孩对我说 Na Nu Hai Dui Wo Shuo",
+      "category": "MANYAO LOVERS",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 140222444590087 ,
       "title": "只是太爱你 - Zhi Shi Tai Ai Ni",
-      "category": "",
+      "category": "MANYAO LOVERS",
       "length": 240,
       "playbackSpeed": 0.40
     },
