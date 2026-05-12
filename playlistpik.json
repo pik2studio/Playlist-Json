@@ -1,6 +1,61 @@
 {
   "songs": [
     {
+      "id": 74122486124683  ,
+      "title": "Wukong Manyao",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+      "id": 102501734497680 ,
+      "title": "BlackPink Manyao",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 115384235985286,
+      "title": "Jaychou",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 127882241577205,
+      "title": "LBI",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 125248462413330,
+      "title": "RYAN B",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 73291608393533,
+      "title": "SKAI",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 128255315925708  ,
+      "title": "Xiao Xing Yun",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
+      "id": 120342814076132 ,
+      "title": "Wong Fei Hung",
+      "category": "TECHNO",
+      "length": 240,
+      "playbackSpeed": 0.40
+    },
+    {
       "id": 70595246772201,
       "title": "GEN Z 5",
       "category": "MANYAO",
